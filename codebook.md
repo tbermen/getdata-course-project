@@ -18,8 +18,8 @@
 ### measure
      Measurement features from Samsung Galaxy S II. Features are normalized and bounded within [-1,1].
      
-* time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz.  Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
-* Fast Fourier Transform (FFT) was applied to some of these signals producing (Note the 'f' to indicate frequency domain signals)
+time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz.  Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
+Fast Fourier Transform (FFT) was applied to some of these signals producing (Note the 'f' to indicate frequency domain signals)
 
 * tBodyAccX - is a time-domain,  body acceleration signal from the accelerometer, directionality: X
 * tBodyAccY - is a time-domain,  body acceleration signal from the accelerometer, directionality: Y
